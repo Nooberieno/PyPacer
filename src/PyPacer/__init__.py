@@ -1,1 +1,1 @@
-from main import CallableTimer
+from .CallablePacer import CallableTimer
